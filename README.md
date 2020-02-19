@@ -1,4 +1,4 @@
-# yii2-daytime-filter
+# yii2-daytime-widget-filter
 Day and Time filter
 
 <img src="https://image.ibb.co/gCexNc/2018_02_20_17_05_16.png" width="500">
